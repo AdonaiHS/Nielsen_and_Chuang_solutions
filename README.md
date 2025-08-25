@@ -1,2 +1,6 @@
 # Nielsen_and_Chuang_solutions
-Unnoficial solutions (still under construction) to Nielsen and Chuang's "Quantum Computation and Quantum Information" - 10th anniversary edition book
+This is a personal project I started around 2019. The motivation was the fact that an official solutions manual for Nielsen and Chuang's book doesn't exist, and on the internet, you can find only scattered solutions to some exercises, but never the solutions for the entire book in a single place, and this is what I aim to achieve with this repo. Initially, I was doing it just as my personal record for studying purposes, but realised I could share it with anyone wanting to compare its solution with others, or simply want the solution for whatever reason.
+
+In its current state, chapter 11 is still incomplete, and I still didn't do anything from chapter 12. Exercises for all the other chapters are (almost) complete. I plan to revisit them once I am completely finished with the book. You can find PDF files for separate chapters or the entire solutions manual in a single PDF file (keep in mind that sometimes I mention exercises from different chapters, and in the separate files, sometimes these citations might not be correctly directed to the exercises they refer to when clicking on them).
+
+If you have the solution of any exercise that is missing here, and think that your solution would contribute to this manual, please feel free to contact me by email.
